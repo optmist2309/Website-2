@@ -67,9 +67,10 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 
 .playground {
-  background: #fff;
+  margin-top: 50px;
+  background: #000;
   border-radius: 4px;
-  margin-bottom: 10px;
+  margin-bottom: 100px;
 }
 
 .playground .controls {
@@ -109,7 +110,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 }
 
 .playground .viewport .tlt {
-  color: #000;
+  color: #fff;
   font-size: 1.5em;
   font-weight: 200;
   letter-spacing: 1px;
@@ -358,7 +359,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 .team_hr_team {
     border: 1px solid #fff; 
-    width: 35.5%; 
+    width: 41.5%; 
     float: left;
 }
 
