@@ -43,7 +43,15 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 
 
 
+.row_clubs {
+    margin-left:-50px;
+    margin-top:70px;
+    padding-left: 200px;
+}
 
+.row_clubs li {
+    list-style: none;
+}
 
 
 
@@ -464,7 +472,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
     overflow: hidden;
     cursor:pointer;
     height: 150px;
-    width: 160px;
+    width: inherit;
 }
 
 .templatemo-project-box:hover .project-overlay {
@@ -704,7 +712,9 @@ ul.templatemo-project-gallery  li  a img:hover {
 }
 .templatemo-project-gallery li {     
     list-style:none;
-    margin-bottom:25px;           
+    margin-bottom:25px;
+    margin-left: 10px;
+    margin-right: 10px;           
 }
 .templatemo-project-gallery li img {
   cursor: pointer;
