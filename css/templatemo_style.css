@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neu
 /* ------ Carousel ----- */
 
 #templatemo-carousel {
-    background: url('../images/templatemo_carousel_bg.jpg') no-repeat center center fixed; 
+     background: url('../images/templatemo_carousel_bg.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -616,14 +616,14 @@ a:hover .social-icon-fb {
 }
 
 .social-icon-fb-2 {
-    background: url('../images/facebook.png') no-repeat;
+    background: url('../images/facebook-site.png') no-repeat;
     width: 60px;
     height: 60px;
     display: block;
 }
 
 a:hover .social-icon-fb-2 {
-    background: url('../images/facebook-grey.png') no-repeat;
+    background: url('../images/facebook-site-grey.png') no-repeat;
 }
 
 .social-icon-rss {
@@ -649,14 +649,14 @@ a:hover .social-icon-twitter {
 }
 
 .social-icon-linkedin {
-    background: url('../images/social-icon-linkedin.png') no-repeat;
-    width: 42px;
-    height: 42px;
+    background: url('../images/linkedin-grey.png') no-repeat;
+    width: 60px;
+    height: 60px;
     display: block;
 }
 
 a:hover .social-icon-linkedin {
-    background: url('../images/linkedin-grey.png') no-repeat;
+    background: url('../images/linkedin.png') no-repeat;
 }
 
 .social-icon-dribbble {
